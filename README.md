@@ -1,16 +1,15 @@
-## Hi there 👋
+# Research Interest
+### 🛡️ Cyber Security Learner | 🌍 Mining GIS Enthusiast
 
-<!--
-**tofiveyearsago/tofiveyearsago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### 🌍 Geospatial & Mining
+- Focused on land mapping and site evaluation workflows.
+- Interested in spatial data processing for mining operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛡️ Cyber Security Learner
+- Currently exploring Web Exploitation and Reconnaissance.
+- Learning Bug Bounty methodologies to understand system vulnerabilities.
+
+#### 🐍 Tech & Automation
+- Using Python for task automation and data processing.
+- Managing data and technical analysis for market trends.
