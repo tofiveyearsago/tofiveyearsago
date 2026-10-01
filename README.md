@@ -1,5 +1,5 @@
 # Interests 
-## Mining GIS Enthusiast | TECH | GAMING
+## Mining GIS Enthusiast | TECH | Gaming
 
 
 
